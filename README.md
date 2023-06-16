@@ -5,9 +5,9 @@ This repository is dedicated to collecting data and modeling practices for energ
 ## Table of Contents
 - [Introduction](#introduction)
 - [Repository Contents](#repository-contents)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
+<!-- - [Usage](#usage) -->
+<!-- - [Contributing](#contributing) -->
 
 ## Introduction
 Energy storage systems play a crucial role in modern energy systems, enabling efficient energy management and facilitating the integration of renewable energy sources. This repository aims to gather relevant data and modeling practices to support research and development efforts in the field of energy storage.
