@@ -1,2 +1,2 @@
-# ESS_data
-Convex Hull Formulations for Linear Modeling of Energy Storage Systems
+# Repository for  Energy Storage System modeling.
+
