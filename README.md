@@ -13,7 +13,7 @@ This repository is dedicated to collecting data and modeling practices for energ
 Energy storage systems play a crucial role in modern energy systems, enabling efficient energy management and facilitating the integration of renewable energy sources. This repository aims to gather relevant data and modeling practices to support research and development efforts in the field of energy storage.
 
 ## Repository Contents
-- [**Convex Hull Formulations for Linear Modeling of Energy Storage Systems**](ESS_data/Convex%20Hull%20Formulations%20for%20Linear%20Modeling%20of%20Energy%20Storage%20Systems/): This directory contains data samples related to simulations done for modeling the convex hull of energy storage systems. The fundamental theory is published under the same name [*IEEE Transactions on Power Systems letter*](https://ieeexplore.ieee.org/document/10214347/).
+- [**Convex Hull Formulations for Linear Modeling of Energy Storage Systems**](Convex%20Hull%20Formulations%20for%20Linear%20Modeling%20of%20Energy%20Storage%20Systems/): This directory contains data samples related to simulations done for modeling the convex hull of energy storage systems. The fundamental theory is published under the same name [*IEEE Transactions on Power Systems letter*](https://ieeexplore.ieee.org/document/10214347/).
 
 
 <!-- - **Models**: Here, you can find modeling examples, algorithms, and simulation tools for energy storage systems. Feel free to contribute your own models or explore existing ones. -->
